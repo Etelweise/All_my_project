@@ -1,0 +1,45 @@
+# Игнорировать виртуальное окружение (самая частая причина "лишних" файлов)
+venv/
+env/
+.venv/
+
+# Игнорировать системные файлы
+.DS_Store
+Thumbs.db
+
+# Игнорировать файлы настроек редактора (если не хотите их шарить)
+.vscode/
+.idea/
+
+# Игнорировать временные и кэш-файлы Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные
+data/raw/
+data/processed/temp/
+*.csv
+*.xlsx
+
+# Логи и настройки
+*.log
+.env
+config.local.py
+d a t a / h o t e l s . c s v  
+ d a t a / h o t e l s _ d f . c s v  
+ 
