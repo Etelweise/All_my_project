@@ -1,4 +1,4 @@
-# Проект: PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle
+# EDA + Feature Engineering. Соревнование на Kaggle
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
